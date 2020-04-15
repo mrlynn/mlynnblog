@@ -62,8 +62,8 @@ email: "merlynn@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-[]
+#user_groups:
+#[]
 ---
 
 Michael Lynn runs the MongoDB for Startups program. Ask me about MongoDB, Startups, data, software development, or anything!
