@@ -18,27 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Principal Developer Advocate"
+  company = "MongoDB"
+  company_url = "https://mongodb.com"
+  location = "New York, NY"
+  date_start = "2016-01-04"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Build and nurture the startup community through the MongoDB for Startups program, an initiative designed to help startups succeed by offering access to the software and services to help them build and scale their business.
+  * Mentor and advise startups and founders on the technical aspects of their products.
+  * Manage the Startups Technical Advisors program - a volunteer-based initiative which pairs startup founders and developers with experts to help solve their technical challenges.
+  * Teach, enable, mentor, nurture, build and train through content, conference speaking, screencasts and curriculum.
+  * Grow startup program through partnerships with VC's, Accelerators, and other Tech companies.
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
