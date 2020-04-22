@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-22T04:00:00Z
-draft = true
 featured = false
 projects = []
 subtitle = "This is merely a test."
